@@ -43,9 +43,11 @@ p {
 .squares {
     width: auto;
     height: auto;
+    
 }
 
-.squares:hover {
+/* .squares:hover {
     background-color: aqua;
-    cursor: pointer;   
+    cursor: pointer;  
 }
+ */
